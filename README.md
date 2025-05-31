@@ -1,6 +1,6 @@
 # Stock_Analysis_with_Llamaindex
 
-Stock_Analysis_with_Llamaindex
+## Step 1: Setup the environment
 
 1. On git hub create repository first
    a. Give name as Stock Analysis using Llamaindex
@@ -47,3 +47,23 @@ Open VS code open the folder of repository
    a. git add .
    b. git commit -m "folder structure added"
    c. git push origin main
+
+---
+
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+---
+
+### STEP 03- Run the application
+```bash
+# Finally run the following command
+streamlit run app.py
+```
+---
+
+Now,
+```bash
+open up you local host and port 8501
+```
