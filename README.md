@@ -61,9 +61,7 @@ pip install -r requirements.txt
 # Finally run the following command
 streamlit run app.py
 ```
----
 
-Now,
 ```bash
-open up you local host and port 8501
+Streamlit application should launch in browser with port 8501 or 8502
 ```
